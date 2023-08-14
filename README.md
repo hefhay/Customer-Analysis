@@ -121,7 +121,7 @@ Based on the earlier analysis and filtering criteria, the table of targeted cust
 4. Job Industry: They work in the manufacturing, finance, or health industry.
 The table includes the first name, last name, address, state, wealth segment, and job industry for each of the 68 targeted customers. These individuals have been identified as potential high-value customers based on the analysis conducted earlier, and they present valuable opportunities for targeted marketing and engagement efforts. The final table that shows the targetted customers can be seen below;
 
- ![](tcv.png)
+ ![](tcv2.png)
 
 By focusing on this select group of customers, the company can allocate resources more effectively, deliver personalized offers, and improve customer satisfaction. Implementing tailored marketing strategies for these targeted customers will likely yield higher conversion rates and contribute positively to the company's overall revenue and growth.
 
