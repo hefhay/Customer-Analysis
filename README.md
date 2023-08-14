@@ -84,7 +84,7 @@ During the analysis, visualizations were utilized to gain insights into how vari
 Based on the analysis done and visualization, the following factors can be considered to target new customers effectively:
 
 1. According to the RFM analysis, it is evident that the segment categorized as "Champions" played a pivotal role in driving the overall profit, accounting for approximately 22% of the total profits. Remarkably, this group constitutes merely 6% of the total customer base. Following closely, the "At Risk" customer segment emerged as another substantial contributor, responsible for around 17% of both the total profit and the customer count. Interestingly, the largest customer group, classified as "Potential Loyalists," holds significant potential due to their sheer numbers. Despite this, their current contribution to the total profit stands at approximately 9%. This observation could potentially open avenues for further exploration to harness the latent value within this expansive segment. The visualization for showing the rfm segments across other factors is shown below;
- ![](rfmv.png)
+ ![](rfmv2.png)
 
 
 2.	Industry Sector: Target customers within the manufacturing, finance, and health sectors, as they have shown the highest contribution to the total profit. Manufacturing industry contributed about 24.27% to the total profit, finance industry about 24.02%, and health sector about 18.56%. Tailoring marketing efforts to address the specific needs and preferences of customers in these sectors can lead to increased engagement and loyalty.
@@ -121,7 +121,7 @@ Based on the earlier analysis and filtering criteria, the table of targeted cust
 4. Job Industry: They work in the manufacturing, finance, or health industry.
 The table includes the first name, last name, address, state, wealth segment, and job industry for each of the 68 targeted customers. These individuals have been identified as potential high-value customers based on the analysis conducted earlier, and they present valuable opportunities for targeted marketing and engagement efforts. The final table that shows the targetted customers can be seen below;
 
- ![](tvc.png) 
+ ![](tcv.png) 
 
 By focusing on this select group of customers, the company can allocate resources more effectively, deliver personalized offers, and improve customer satisfaction. Implementing tailored marketing strategies for these targeted customers will likely yield higher conversion rates and contribute positively to the company's overall revenue and growth.
 
