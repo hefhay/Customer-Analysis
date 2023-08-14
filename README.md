@@ -83,7 +83,9 @@ Indeed, after obtaining the individual recency, frequency, and monetary scores, 
 During the analysis, visualizations were utilized to gain insights into how various variables influence sales within the company. Several measures were created, including the total number of customers, the number of males, the number of females, and the total bike-related purchases.
 Based on the analysis done and visualization, the following factors can be considered to target new customers effectively:
 
-1. According to the RFM analysis, it is evident that the segment categorized as "Champions" played a pivotal role in driving the overall profit, accounting for approximately 22% of the total profits. Remarkably, this group constitutes merely 6% of the total customer base. Following closely, the "At Risk" customer segment emerged as another substantial contributor, responsible for around 17% of both the total profit and the customer count. Interestingly, the largest customer group, classified as "Potential Loyalists," holds significant potential due to their sheer numbers. Despite this, their current contribution to the total profit stands at approximately 9%. This observation could potentially open avenues for further exploration to harness the latent value within this expansive segment.
+1. According to the RFM analysis, it is evident that the segment categorized as "Champions" played a pivotal role in driving the overall profit, accounting for approximately 22% of the total profits. Remarkably, this group constitutes merely 6% of the total customer base. Following closely, the "At Risk" customer segment emerged as another substantial contributor, responsible for around 17% of both the total profit and the customer count. Interestingly, the largest customer group, classified as "Potential Loyalists," holds significant potential due to their sheer numbers. Despite this, their current contribution to the total profit stands at approximately 9%. This observation could potentially open avenues for further exploration to harness the latent value within this expansive segment. The visualization for showing the rfm segments across other factors is shown below;
+ ![](rfmv.png)
+
 
 2.	Industry Sector: Target customers within the manufacturing, finance, and health sectors, as they have shown the highest contribution to the total profit. Manufacturing industry contributed about 24.27% to the total profit, finance industry about 24.02%, and health sector about 18.56%. Tailoring marketing efforts to address the specific needs and preferences of customers in these sectors can lead to increased engagement and loyalty.
 
@@ -97,14 +99,19 @@ Based on the analysis done and visualization, the following factors can be consi
 
 By prioritizing the factors with notable impacts on sales and profitability, the company can optimize its resources and efforts to achieve better customer engagement, loyalty, and overall business success. Continuous monitoring of customer behavior and preferences will still be valuable to identify any shifts or changes in customer trends over time.
 
-By leveraging these detailed insights, the company can implement data-driven marketing strategies that resonate with target customers and enhance customer acquisition, retention, and overall profitability. Continuous monitoring and analysis of customer data will be crucial in adapting strategies over time and staying ahead in a competitive market. 
+By leveraging these detailed insights, the company can implement data-driven marketing strategies that resonate with target customers and enhance customer acquisition, retention, and overall profitability. Continuous monitoring and analysis of customer data will be crucial in adapting strategies over time and staying ahead in a competitive market. The visualization of these insights can be seen below;
+
+ ![](crv.png) 
+
 ## Analysis of new customers
  The insights obtained from analyzing the new customers dataset and creating visualizations reinforce our initial conclusions about factors to consider when targeting new customers. Here are the key findings based on the visuals: 
 1. Age Bracket: Similar to the existing customer dataset, the middle age group also contributes the highest to the total bike-related purchases among new customers. Targeting marketing efforts towards this age group can be a strategic approach to attract and engage new customers.
 2. Wealth Segment: As with existing customers, the mass customers among new customers also exhibit the highest contribution to bike-related purchases. Focusing on this segment in marketing initiatives can be advantageous in driving sales and revenue.
 3. State: Consistent with the existing customer dataset, New South Wales (NSW) emerges as the state with the highest contribution to bike-related purchases among new customers, accounting for approximately 50% of the total. Targeting marketing efforts specifically to the NSW region can be beneficial in maximizing sales.
 4. Job Industries: Similar to the existing customers, the finance, manufacturing, and health job industries also lead the way in bike-related purchases among new customers. Concentrating on customers from these industries may result in increased sales and profitability.
-5. Gender and Car Ownership: The analysis reaffirms that gender and car ownership continue to exhibit minimal differences in bike-related purchases among new customers. As the variations in these factors are less than 2%, they may not significantly influence the decision to target high-value customers.
+5. Gender and Car Ownership: The analysis reaffirms that gender and car ownership continue to exhibit minimal differences in bike-related purchases among new customers. As the variations in these factors are less than 2%, they may not significantly influence the decision to target high-value customers. the new customers insights can be supported with the visualization below;
+
+ ![](ncr.png) 
 
 In summary, the insights gained from analyzing the new customers dataset and visualizations align with the earlier findings. Prioritizing the middle age group, mass customers, customers from NSW (New South Wales), and those in finance, manufacturing, and health industries remains a sound strategy for targeting new customers effectively. While gender and car ownership may not be decisive factors in targeting high-value customers, continuous monitoring of customer behavior and preferences is essential to adapt strategies as customer trends evolve over time. By leveraging these insights, the company can tailor marketing approaches to resonate with potential customers and drive business growth.
 Based on the earlier analysis and filtering criteria, the table of targeted customers consists of 68 individuals who meet the specified conditions from the 1000 new customers. These customers exhibit the following characteristics:
@@ -112,7 +119,9 @@ Based on the earlier analysis and filtering criteria, the table of targeted cust
 2. Wealth Segment: They belong to the mass customers' wealth segment.
 3. Age Bracket: They fall within the middle age bracket.
 4. Job Industry: They work in the manufacturing, finance, or health industry.
-The table includes the first name, last name, address, state, wealth segment, and job industry for each of the 68 targeted customers. These individuals have been identified as potential high-value customers based on the analysis conducted earlier, and they present valuable opportunities for targeted marketing and engagement efforts.
+The table includes the first name, last name, address, state, wealth segment, and job industry for each of the 68 targeted customers. These individuals have been identified as potential high-value customers based on the analysis conducted earlier, and they present valuable opportunities for targeted marketing and engagement efforts. The final table that shows the targetted customers can be seen below;
+
+ ![](tvc.png) 
 
 By focusing on this select group of customers, the company can allocate resources more effectively, deliver personalized offers, and improve customer satisfaction. Implementing tailored marketing strategies for these targeted customers will likely yield higher conversion rates and contribute positively to the company's overall revenue and growth.
 
