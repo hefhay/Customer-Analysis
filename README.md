@@ -103,6 +103,9 @@ By leveraging these detailed insights, the company can implement data-driven mar
 
  ![](crv.png) 
 
+ #### YOU CAN INTERACT WITH THE REPORT [HERE](https://app.powerbi.com/view?r=eyJrIjoiYWU0NGY3ZTUtNDE2Ni00Yjk1LWJlYmQtZmY2ODYyMzQzMDM2IiwidCI6ImI5NjBjM2ZmLWE4ODktNDQzOC05N2QwLTZlZjFiYTY2MzZhMiJ9)
+
+ 
 ## Analysis of new customers
  The insights obtained from analyzing the new customers dataset and creating visualizations reinforce our initial conclusions about factors to consider when targeting new customers. Here are the key findings based on the visuals: 
 1. Age Bracket: Similar to the existing customer dataset, the middle age group also contributes the highest to the total bike-related purchases among new customers. Targeting marketing efforts towards this age group can be a strategic approach to attract and engage new customers.
@@ -112,6 +115,8 @@ By leveraging these detailed insights, the company can implement data-driven mar
 5. Gender and Car Ownership: The analysis reaffirms that gender and car ownership continue to exhibit minimal differences in bike-related purchases among new customers. As the variations in these factors are less than 2%, they may not significantly influence the decision to target high-value customers. the new customers insights can be supported with the visualization below;
 
  ![](ncr.png) 
+
+ #### YOU CAN INTERACT WITH THE REPORT [HERE](https://app.powerbi.com/view?r=eyJrIjoiYWU0NGY3ZTUtNDE2Ni00Yjk1LWJlYmQtZmY2ODYyMzQzMDM2IiwidCI6ImI5NjBjM2ZmLWE4ODktNDQzOC05N2QwLTZlZjFiYTY2MzZhMiJ9)
 
 In summary, the insights gained from analyzing the new customers dataset and visualizations align with the earlier findings. Prioritizing the middle age group, mass customers, customers from NSW (New South Wales), and those in finance, manufacturing, and health industries remains a sound strategy for targeting new customers effectively. While gender and car ownership may not be decisive factors in targeting high-value customers, continuous monitoring of customer behavior and preferences is essential to adapt strategies as customer trends evolve over time. By leveraging these insights, the company can tailor marketing approaches to resonate with potential customers and drive business growth.
 Based on the earlier analysis and filtering criteria, the table of targeted customers consists of 68 individuals who meet the specified conditions from the 1000 new customers. These customers exhibit the following characteristics:
@@ -125,3 +130,4 @@ The table includes the first name, last name, address, state, wealth segment, an
 
 By focusing on this select group of customers, the company can allocate resources more effectively, deliver personalized offers, and improve customer satisfaction. Implementing tailored marketing strategies for these targeted customers will likely yield higher conversion rates and contribute positively to the company's overall revenue and growth.
 
+ #### YOU CAN INTERACT WITH THE REPORT [HERE](https://app.powerbi.com/view?r=eyJrIjoiYWU0NGY3ZTUtNDE2Ni00Yjk1LWJlYmQtZmY2ODYyMzQzMDM2IiwidCI6ImI5NjBjM2ZmLWE4ODktNDQzOC05N2QwLTZlZjFiYTY2MzZhMiJ9)
