@@ -1,5 +1,4 @@
 # Customer-Analysis
-![](sprocket_central_logo.png)
 
 ## Introduction
 Welcome to the documentation of my KPMG Virtual internship in data analysis. Throughout this internship, I had the privilege of working with four diverse datasets: customer demographic, customer address, transaction, and new customer datasets where the client was Sprocket Central Pty Ltd. This documentation aims to provide a comprehensive overview of the methodologies, analyses, and insights derived from my exploration and manipulation of these datasets. As you delve into the following pages, I hope you will gain valuable insights into the world of data analysis and the impact it can have on business decision-making processes
