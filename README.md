@@ -36,7 +36,6 @@ Several data transformations were performed on our dataset to ensure its readine
 
 A new "age bracket" column was introduced, encompassing three distinct categories: "Youth," "Middle Age," and "Old Age." Individuals falling within the age range of 0 to 30 years were assigned to the "Youth" category. Those between 31 and 54 years were classified under the "Middle Age" category, while individuals aged 55 years and above were grouped into the "Old Age" category. This classification scheme helps to better analyze and understand the distribution of age groups within our dataset.
 
-![](age_bracket.png).
 ## Data Modelling
 For the modelling, a snowflake schema design was utilized to connect all tables with the exception of the ‘Newcustomerlist’ table. The decision to exclude this table from establishing relationships with other four tables was made due to its lack direct association with the other table. The modelling of the tables is shown below
 
