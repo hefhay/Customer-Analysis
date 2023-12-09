@@ -82,8 +82,7 @@ Indeed, after obtaining the individual recency, frequency, and monetary scores, 
 During the analysis, visualizations were utilized to gain insights into how various variables influence sales within the company. Several measures were created, including the total number of customers, the number of males, the number of females, and the total bike-related purchases.
 Based on the analysis done and visualization, the following factors can be considered to target new customers effectively:
 
-1. According to the RFM analysis, it is evident that the segment categorized as "Champions" played a pivotal role in driving the overall profit, accounting for approximately 22% of the total profits. Remarkably, this group constitutes merely 6% of the total customer base. Following closely, the "At Risk" customer segment emerged as another substantial contributor, responsible for around 17% of both the total profit and the customer count. Interestingly, the largest customer group, classified as "Potential Loyalists," holds significant potential due to their sheer numbers. Despite this, their current contribution to the total profit stands at approximately 9%. This observation could potentially open avenues for further exploration to harness the latent value within this expansive segment. The visualization for showing the rfm segments across other factors is shown below;
- ![](rfmv2.png)
+1. According to the RFM analysis, it is evident that the segment categorized as "Champions" played a pivotal role in driving the overall profit, accounting for approximately 22% of the total profits. Remarkably, this group constitutes merely 6% of the total customer base. Following closely, the "At Risk" customer segment emerged as another substantial contributor, responsible for around 17% of both the total profit and the customer count. Interestingly, the largest customer group, classified as "Potential Loyalists," holds significant potential due to their sheer numbers. Despite this, their current contribution to the total profit stands at approximately 9%. This observation could potentially open avenues for further exploration to harness the latent value within this expansive segment. 
 
 
 2.	Industry Sector: Target customers within the manufacturing, finance, and health sectors, as they have shown the highest contribution to the total profit. Manufacturing industry contributed about 24.27% to the total profit, finance industry about 24.02%, and health sector about 18.56%. Tailoring marketing efforts to address the specific needs and preferences of customers in these sectors can lead to increased engagement and loyalty.
@@ -98,9 +97,7 @@ Based on the analysis done and visualization, the following factors can be consi
 
 By prioritizing the factors with notable impacts on sales and profitability, the company can optimize its resources and efforts to achieve better customer engagement, loyalty, and overall business success. Continuous monitoring of customer behavior and preferences will still be valuable to identify any shifts or changes in customer trends over time.
 
-By leveraging these detailed insights, the company can implement data-driven marketing strategies that resonate with target customers and enhance customer acquisition, retention, and overall profitability. Continuous monitoring and analysis of customer data will be crucial in adapting strategies over time and staying ahead in a competitive market. The visualization of these insights can be seen below;
-
- ![](crv.png) 
+By leveraging these detailed insights, the company can implement data-driven marketing strategies that resonate with target customers and enhance customer acquisition, retention, and overall profitability. Continuous monitoring and analysis of customer data will be crucial in adapting strategies over time and staying ahead in a competitive market. 
 
  #### YOU CAN INTERACT WITH THE REPORT [HERE](https://app.powerbi.com/view?r=eyJrIjoiYWU0NGY3ZTUtNDE2Ni00Yjk1LWJlYmQtZmY2ODYyMzQzMDM2IiwidCI6ImI5NjBjM2ZmLWE4ODktNDQzOC05N2QwLTZlZjFiYTY2MzZhMiJ9)
 
@@ -111,9 +108,7 @@ By leveraging these detailed insights, the company can implement data-driven mar
 2. Wealth Segment: As with existing customers, the mass customers among new customers also exhibit the highest contribution to bike-related purchases. Focusing on this segment in marketing initiatives can be advantageous in driving sales and revenue.
 3. State: Consistent with the existing customer dataset, New South Wales (NSW) emerges as the state with the highest contribution to bike-related purchases among new customers, accounting for approximately 50% of the total. Targeting marketing efforts specifically to the NSW region can be beneficial in maximizing sales.
 4. Job Industries: Similar to the existing customers, the finance, manufacturing, and health job industries also lead the way in bike-related purchases among new customers. Concentrating on customers from these industries may result in increased sales and profitability.
-5. Gender and Car Ownership: The analysis reaffirms that gender and car ownership continue to exhibit minimal differences in bike-related purchases among new customers. As the variations in these factors are less than 2%, they may not significantly influence the decision to target high-value customers. the new customers insights can be supported with the visualization below;
-
- ![](ncr.png) 
+5. Gender and Car Ownership: The analysis reaffirms that gender and car ownership continue to exhibit minimal differences in bike-related purchases among new customers. As the variations in these factors are less than 2%, they may not significantly influence the decision to target high-value customers.
 
  #### YOU CAN INTERACT WITH THE REPORT [HERE](https://app.powerbi.com/view?r=eyJrIjoiYWU0NGY3ZTUtNDE2Ni00Yjk1LWJlYmQtZmY2ODYyMzQzMDM2IiwidCI6ImI5NjBjM2ZmLWE4ODktNDQzOC05N2QwLTZlZjFiYTY2MzZhMiJ9)
 
